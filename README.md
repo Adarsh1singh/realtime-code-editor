@@ -28,3 +28,12 @@ Codemirror: As the code editor component.
 Socket.IO: For real-time bi-directional communication.
 Express: For setting up the server.
 UUID: For generating unique room IDs.
+
+Images
+
+![Screenshot1 Image](https://raw.githubusercontent.com/Adarsh1singh/realtime-code-editor/main/assets/Screenshot (100).png)
+![Screenshot1 Image](https://raw.githubusercontent.com/Adarsh1singh/realtime-code-editor/main/assets/Screenshot (101).png)
+![Screenshot1 Image](https://raw.githubusercontent.com/Adarsh1singh/realtime-code-editor/main/assets/Screenshot (102).png)
+![Screenshot1 Image](https://raw.githubusercontent.com/Adarsh1singh/realtime-code-editor/main/assets/Screenshot (103).png)
+![Screenshot1 Image](https://raw.githubusercontent.com/Adarsh1singh/realtime-code-editor/main/assets/Screenshot (104).png)
+
