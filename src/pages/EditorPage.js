@@ -57,8 +57,8 @@ const EditorPage = () => {
 
       socketRef.current.on(ACTIONS.JOINED, ({ clients, userName, socketId }) => {
         if (userName !== location.state?.userName) {
-          toast.success(`$(userName) joined the room.`);
-          console.log(`$(userName) joined`);
+          toast.success(`${userName} joined the room.`);
+          console.log(`${userName} joined`);
         }
         setClients(clients);
         
