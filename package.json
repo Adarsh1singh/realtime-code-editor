@@ -22,11 +22,11 @@
   "scripts": {
     "start:front": "react-scripts start",
     "start": "npm run build && npm run server:prod",
+    "build": "react-scripts build",
     "server:dev": "nodemon server.js",
     "server:prod": "node server.js",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "postinstall": "npm install"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -49,9 +49,5 @@
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "nodemon": "^3.1.3"
-  },
-  "engines": {
-    "node": ">=14.x",
-    "npm": ">=6.x"
   }
 }
