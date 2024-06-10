@@ -27,4 +27,4 @@ React: For building the user interface.
 Codemirror: As the code editor component.
 Socket.IO: For real-time bi-directional communication.
 Express: For setting up the server.
-UUID: For generating unique room IDs
+UUID: For generating unique room IDs.
