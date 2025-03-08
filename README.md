@@ -50,6 +50,6 @@ UUID: For generating unique room IDs.
 
 
 To run this project on docker: 
- docker build -t react/app .
+ docker build -t react/app .  ||
   docker run -p 3000:3000 -p 5000:5000 --name realtime-editor-container react/app
 
