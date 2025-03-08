@@ -48,3 +48,8 @@ UUID: For generating unique room IDs.
 ### Image 5
 ![Image 5 Description](https://raw.githubusercontent.com/Adarsh1singh/realtime-code-editor/main/assets/img5.png)
 
+
+To run this project on docker: 
+ docker build -t react/app .
+  docker run -p 3000:3000 -p 5000:5000 --name realtime-editor-container react/app
+
